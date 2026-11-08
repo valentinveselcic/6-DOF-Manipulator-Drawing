@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: rob_manip_description
+    relative_path: urdf/rob_manipulator.urdf
+  srdf:
+    relative_path: config/rob_manipulator.srdf
+  package_settings:
+    author_name: autor
+    author_email: autor@autor.com
+    generated_timestamp: 1765900732
